@@ -1,1 +1,1 @@
-# EduHub---Course-Management-System
+# EduHub-Course-Management-System
